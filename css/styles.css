@@ -298,9 +298,11 @@ height: 100%;}
 }
 .first-h1{
   text-align: center;
+  margin-right: auto;
 }
 .first-h2{
   text-align: center;
+  margin-right: auto;
 }
 .carousel-item{
 width: 70%;
