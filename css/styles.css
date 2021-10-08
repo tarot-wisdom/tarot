@@ -1,4 +1,5 @@
 body {
+  width: 100%;
   margin: 0 auto 0 auto;
   text-align: center;
   background-color: #FDFCE5;
@@ -38,6 +39,7 @@ p {
 
 .navbar-nav{
   margin-right: 35%;
+  width: 100%;
 }
 
 .navbar-brand{
@@ -326,6 +328,8 @@ left: 13%;
 }
 .h1-shatefna {
   margin: auto;
+  text-align: center;
+
 }
 .form{
   visibility: hidden;
@@ -448,7 +452,7 @@ font-size: 3rem;
 
 .h1-shatefna {
   position: relative;
-  right: 70px;
+
 }
 
 /* asimonim */
