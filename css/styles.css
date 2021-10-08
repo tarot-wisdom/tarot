@@ -277,7 +277,7 @@ text-align: center;
 
 /* phone */
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 900px){
 
 #imgtopdiv {visibility: hidden;}
 .imgtop2 {visibility: hidden;}
