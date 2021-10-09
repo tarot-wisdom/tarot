@@ -110,7 +110,7 @@ text-shadow: 1.5px 1.5px 1.5px black;
 
 
 .TOP {
-  background-color: #EFBBCF;
+  background-color: #F56FAD;
   position: relative;
   padding: 10px 50px 150px 0;
 }
@@ -131,7 +131,7 @@ margin: 100px auto 50px auto;
 .icon {
 font-size: 4rem;
 margin-bottom: 50px;
-color:#EFBBCF;
+color:#7027A0;
 }
 
 .icon:hover {
@@ -150,7 +150,7 @@ text-align: center;
   /* width: 35%; */
   margin: auto;
 padding-top: 100px;
-  background-color: #FFD5CD;
+  background-color: #1DB9C3;
   height: 250px;
 }
 #he-circle{
@@ -176,7 +176,7 @@ padding-bottom: 0px;
 .bottom {
   /* width: 50%; */
   text-align: center;
-  background-color: #FFD5CD;
+  background-color: #1DB9C3;
   padding: 50px;
 }
 
@@ -201,7 +201,7 @@ padding-bottom: 0px;
 /* carousel */
 
 #carouselExampleDark{
-  background-color: #EFBBCF;
+  background-color: #F56FAD;
   padding: 70px
 }
  .carousel-item {
@@ -229,12 +229,12 @@ height: 64%;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
   border-radius: 15px;
-  color: #000000;
+  color: white;
   font-family: Brush Script MT;
   font-size: 35px;
   font-weight: 100;
   padding: 10px;
-  background-color: #A2CDCD;
+  background-color: #7027A0;
   border: solid #FFFFFF 1px;
   text-decoration: none;
   display: inline-block;
